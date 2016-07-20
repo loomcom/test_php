@@ -1,4 +1,6 @@
+-- ADDITIONS / UPDATES --
 git add .
+git status
 git commit -m 'description'
 git push origin master
 
